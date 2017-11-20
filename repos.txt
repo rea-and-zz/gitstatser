@@ -1,0 +1,3 @@
+esdk,https://ghe.spotify.net/Hardware-Partners/esdk.git
+client-core,https://ghe.spotify.net/spotify-sdk/client-core.git
+ios-client,https://ghe.spotify.net/iOS/client-ios.git
